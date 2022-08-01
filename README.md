@@ -1,4 +1,3 @@
-Babybee ❤️🐣, [8/1/2022 4:46 PM]
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joanneeldy&show_icons=true&locale=en&layout=compact" alt="joanneeldy" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joanneeldy&show_icons=true&locale=en" alt="joanneeldy" /></p>
