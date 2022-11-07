@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning Web, C++, python, DB, mandarin and korean
 
-- 📝 I regularly write articles on [gongbuhada.com](gongbuhada.com)
+- 📝 I regularly write articles on [https://www.gongbuhada.com](https://www.gongbuhada.com)
 
 - 💬 Ask me about Language and coding
 
