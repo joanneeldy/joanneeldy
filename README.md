@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joanneeldy" alt="joanneeldy" /></a> </p>
 
-- 🌱 I’m currently learning Web, C++, python, DB, mandarin and korean
+- 🌱 I’m currently learning Web, C++, python, DB, and korean
 
 - 📝 I regularly write articles on [https://www.gongbuhada.com](https://www.gongbuhada.com)
 
